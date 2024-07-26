@@ -1,51 +1,15 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
+# Noticiário Galáctico
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Este projeto é um noticiário futurista, apresentado por um avatar, utiliza inteligência artificial para gerar notícias fictícias sobre eventos no universo.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+- **`ChatGPT (OpenAI):`** Para gerar o roteiro do noticiário, utilizando prompts específicos para criar notícias fictícias com informações relevantes e interessantes.
+- **`Leonardo.ai:`** Para gerar a imagem de fundo do estúdio futurista, utilizando modelos de inteligência artificial para criar um ambiente visualmente impressionante e realista.
+- **`HeyGen:`** Para criar o vídeo final com o avatar, utilizando a imagem de fundo gerada e o roteiro do ChatGPT. O HeyGen permite a sincronização de lábios, animação facial e a geração de voz, criando uma experiência imersiva para o espectador.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+1. Geração do Roteiro: Utilizando o [ChatGPT (OpenAI)](https://openai.com/chatgpt/) para gerar notícias fictícias. 
+2. Criação do Cenário: Utilizando o [Leonardo.ai](https://leonardo.ai/) para gerar a imagem de fundo do estúdio futurista.
+3. Produção do Vídeo: Utilizando o [HeyGen](https://app.heygen.com/), montamos o vídeo final com o avatar, a imagem de fundo gerada e o roteiro do ChatGPT. Personalizamos o avatar com aparência e voz realistas. 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+O resultado final é um noticiário futurista cativante e envolvente. O avatar realista, o cenário futurista e as notícias fictícias. Para acessar o deploy do Noticiário Galáctico, siga este link: [Noticiário Galáctico]([https://www.google.com](https://dio-natty-or-not.vercel.app/))
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este projeto demonstra o potencial da inteligência artificial para a criação de conteúdo criativo e envolvente. A combinação de diferentes ferramentas de IA, como ChatGPT, Leonardo.ai e HeyGen, permite a produção de vídeos de alta qualidade, com um nível de realismo impressionante. No futuro, a inteligência artificial poderá revolucionar a forma como consumimos conteúdo, criando novas formas de entretenimento e informação.
